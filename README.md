@@ -3,26 +3,23 @@ node.js
 
 practice on node.js
 
-* Node.js is
+Node.js is
 Node.js is a simple JavaScript Runtime, which is based on V8 engine of google chrome.
 
-* Node.js is not
+Node.js is not
 Node.js is not a web server.
 
-* Get a copy
+Get a copy
 from nodejs.org/download
 
-* How to use
-1.command line
-$node
+How to use
+* command line
+>$node
 >console.log('Hello World!')
 Hello World!
 undefined
->
-Ã¿ÌõÃüÁî¶¼»á·µ»ØÒ»¸öÖµ£¬¶øconsole.logÃ»ÓĞÈÎºÎ·µ»Ø£¬¹ÊÊä³ö¡°undefined¡±¡£
-2.Ö´ĞĞJSÎÄ¼şµÄ·½Ê½
-hello.js
-<b>console.log('Hello World');</b>
-<b>$ node hello.js</b>
+æ¯æ¡å‘½ä»¤éƒ½ä¼šè¿”å›ä¸€ä¸ªå€¼ï¼Œè€Œconsole.logæ²¡æœ‰ä»»ä½•è¿”å›ï¼Œæ•…è¾“å‡ºâ€œundefinedâ€ã€‚
+* æ‰§è¡ŒJSæ–‡ä»¶çš„æ–¹å¼
+>$node hello.js
 Hello World
 
